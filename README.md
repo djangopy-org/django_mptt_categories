@@ -1,5 +1,8 @@
 # django_mptt_categories
+
 It is django project that illustrates how to implement categories in a django site with django-mptt module 
+
+Guide link: https://djangopy.org/package-of-week/categories-with-django-mptt/
 
 # Installation guide
 
